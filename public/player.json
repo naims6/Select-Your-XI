@@ -1,0 +1,204 @@
+{
+  "players": [
+    {
+      "playerName": "Sakib Al Hasan",
+      "country": "Bangladesh",
+      "rating": 9.7,
+      "price": "3.8M",
+      "playRole": "All-rounder",
+      "specialty": "Left-hand Bat, Slow left-arm orthodox",
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTCbjTIedmQdn-KwXhJI2n1cywINB54Nd0gRHJoxd1UCh8m2NWk28NBvuUSuAJEk10SO9Nee0vwotSGiLQ",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/256px-Flag_of_Bangladesh.svg.png"
+    },
+    {
+      "playerName": "Virat Kohli",
+      "country": "India",
+      "rating": 9.8,
+      "price": "4.0M",
+      "playRole": "Batsman",
+      "specialty": "Right-hand Bat",
+      "image": "https://uplod.wikimedia.org/wikipedia/commons/thumb/e/ef/Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg/800px-Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_India.svg/256px-Flag_of_India.svg.png"
+    },
+    {
+      "playerName": "Babar Azam",
+      "country": "Pakistan",
+      "rating": 9.6,
+      "price": "3.6M",
+      "playRole": "Batsman",
+      "specialty": "Right-hand Bat",
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjNlq0H8lbxUTVrRmSoU_obyXHU1CautKAQavr_Ip2IEkkmRRCaNyGPSNW7Lexw2a9jmKHch_j1fvlOThEC1S9cN2UsfZ9vlhyYPzRk88R",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/256px-Flag_of_Pakistan.svg.png"
+    },
+    {
+      "playerName": "Steve Smith",
+      "country": "Australia",
+      "rating": 9.4,
+      "price": "3.4M",
+      "playRole": "Batsman",
+      "specialty": "Right-hand Bat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Steve_Smith_ashes_2019.jpg/800px-Steve_Smith_ashes_2019.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/256px-Flag_of_Australia.svg.png"
+    },
+    {
+      "playerName": "Kane Williamson",
+      "country": "New Zealand",
+      "rating": 9.3,
+      "price": "3.2M",
+      "playRole": "Batsman",
+      "specialty": "Right-hand Bat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kane_Williamson_in_2022.jpg/800px-Kane_Williamson_in_2022.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/256px-Flag_of_New_Zealand.svg.png"
+    },
+    {
+      "playerName": "Ben Stokes",
+      "country": "England",
+      "rating": 9.2,
+      "price": "3.3M",
+      "playRole": "All-rounder",
+      "specialty": "Left-hand Bat, Right-arm Fast-medium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ben_Stokes_2019.jpg/800px-Ben_Stokes_2019.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/256px-Flag_of_England.svg.png"
+    },
+    {
+      "playerName": "Rashid Khan",
+      "country": "Afghanistan",
+      "rating": 9.5,
+      "price": "3.7M",
+      "playRole": "Bowler",
+      "specialty": "Leg Spin",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rashid_Khan_at_the_Big_Bash_League_in_January_2019.jpg/800px-Rashid_Khan_at_the_Big_Bash_League_in_January_2019.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Afghanistan.svg/256px-Flag_of_Afghanistan.svg.png"
+    },
+    {
+      "playerName": "Chris Gayle",
+      "country": "West Indies",
+      "rating": 9.5,
+      "price": "3.5M",
+      "playRole": "Batsman",
+      "specialty": "Left-hand Bat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chris_Gayle_in_2017.jpg/800px-Chris_Gayle_in_2017.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/West_Indies_Cricket_logo.svg/256px-West_Indies_Cricket_logo.svg.png"
+    },
+    {
+      "playerName": "Quinton de Kock",
+      "country": "South Africa",
+      "rating": 9.0,
+      "price": "3.0M",
+      "playRole": "Batsman",
+      "specialty": "Wicketkeeper-Batsman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Quinton_de_Kock_in_2018.jpg/800px-Quinton_de_Kock_in_2018.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/256px-Flag_of_South_Africa.svg.png"
+    },
+    {
+      "playerName": "Lasith Malinga",
+      "country": "Sri Lanka",
+      "rating": 9.1,
+      "price": "3.1M",
+      "playRole": "Bowler",
+      "specialty": "Right-arm Fast",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lasith_Malinga_at_the_Big_Bash_League_in_December_2012.jpg/800px-Lasith_Malinga_at_the_Big_Bash_League_in_December_2012.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/256px-Flag_of_Sri_Lanka.svg.png"
+    },
+    {
+      "playerName": "MS Dhoni",
+      "country": "India",
+      "rating": 9.9,
+      "price": "4.5M",
+      "playRole": "Batsman",
+      "specialty": "Wicketkeeper-Batsman, Finisher",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/MS_Dhoni_at_Saifai_Mahotsav_2016.jpg/800px-MS_Dhoni_at_Saifai_Mahotsav_2016.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_India.svg/256px-Flag_of_India.svg.png"
+    },
+    {
+      "playerName": "Rohit Sharma",
+      "country": "India",
+      "rating": 9.7,
+      "price": "3.9M",
+      "playRole": "Batsman",
+      "specialty": "Right-hand Bat, Opener",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rohit_Sharma_at_presentation_ceremony_during_the_2015_IPL_Final.jpg/800px-Rohit_Sharma_at_presentation_ceremony_during_the_2015_IPL_Final.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_India.svg/256px-Flag_of_India.svg.png"
+    },
+    {
+      "playerName": "Jasprit Bumrah",
+      "country": "India",
+      "rating": 9.6,
+      "price": "3.8M",
+      "playRole": "Bowler",
+      "specialty": "Right-arm Fast",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jasprit_Bumrah_in_2018.jpg/800px-Jasprit_Bumrah_in_2018.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_India.svg/256px-Flag_of_India.svg.png"
+    },
+    {
+      "playerName": "Pat Cummins",
+      "country": "Australia",
+      "rating": 9.5,
+      "price": "3.7M",
+      "playRole": "Bowler",
+      "specialty": "Right-arm Fast",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Pat_Cummins_in_2023.jpg/800px-Pat_Cummins_in_2023.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/256px-Flag_of_Australia.svg.png"
+    },
+    {
+      "playerName": "Joe Root",
+      "country": "England",
+      "rating": 9.4,
+      "price": "3.5M",
+      "playRole": "Batsman",
+      "specialty": "Right-hand Bat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Joe_Root_2019.jpg/800px-Joe_Root_2019.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/256px-Flag_of_England.svg.png"
+    },
+    {
+      "playerName": "Kagiso Rabada",
+      "country": "South Africa",
+      "rating": 9.3,
+      "price": "3.4M",
+      "playRole": "Bowler",
+      "specialty": "Right-arm Fast",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kagiso_Rabada_in_2018.jpg/800px-Kagiso_Rabada_in_2018.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/256px-Flag_of_South_Africa.svg.png"
+    },
+    {
+      "playerName": "Trent Boult",
+      "country": "New Zealand",
+      "rating": 9.2,
+      "price": "3.3M",
+      "playRole": "Bowler",
+      "specialty": "Left-arm Fast-medium",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Trent_Boult_in_2018.jpg/800px-Trent_Boult_in_2018.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/256px-Flag_of_New_Zealand.svg.png"
+    },
+    {
+      "playerName": "Andre Russell",
+      "country": "West Indies",
+      "rating": 9.1,
+      "price": "3.2M",
+      "playRole": "All-rounder",
+      "specialty": "Right-hand Bat, Right-arm Fast",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Andre_Russell_in_2018.jpg/800px-Andre_Russell_in_2018.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/West_Indies_Cricket_logo.svg/256px-West_Indies_Cricket_logo.svg.png"
+    },
+    {
+      "playerName": "Shaheen Afridi",
+      "country": "Pakistan",
+      "rating": 9.4,
+      "price": "3.6M",
+      "playRole": "Bowler",
+      "specialty": "Left-arm Fast",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Shaheen_Afridi_in_2022.jpg/800px-Shaheen_Afridi_in_2022.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/256px-Flag_of_Pakistan.svg.png"
+    },
+    {
+      "playerName": "Wanindu Hasaranga",
+      "country": "Sri Lanka",
+      "rating": 9.0,
+      "price": "3.0M",
+      "playRole": "All-rounder",
+      "specialty": "Leg Spin, Right-hand Bat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wanindu_Hasaranga_in_2022.jpg/800px-Wanindu_Hasaranga_in_2022.jpg",
+      "countryFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/256px-Flag_of_Sri_Lanka.svg.png"
+    }
+  ]
+}
